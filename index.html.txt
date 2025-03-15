@@ -97,9 +97,7 @@
         </ul>
     </section>
 
-    <footer>
-        <p>&copy; 2024 Ajit. All rights reserved.</p>
-    </footer>
+   
 
     <script src="scripts.js"></script>
 </body>
