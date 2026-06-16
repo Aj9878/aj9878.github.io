@@ -15,9 +15,6 @@
                     <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/physics-dept/dr-rupak-mukherjee" target="_blank" class="button">Advisor</a>
                 </div>
             </div>
-            <div class="work-item reveal">
-                <img src="images/work2.jpg" alt="Work 2">
-            </div>
         </div>
     </section>
 
