@@ -21,14 +21,7 @@
         </div>
         <div class="work-item reveal">
             <img src="images/work2.jpg" alt="Work 2">
-            <p>Implementation of Algorithms (Based on "Numerical Analysis" by Richard L. Burden and J. Douglas Faires)</p>
-            <div class="button-group">
-                <a href="https://github.com/Aj9878/Codes-NM/tree/main/Burden%20and%20Faires" target="_blank" class="button">View on GitHub</a>
-            </div>
-        </div>
-        <div class="work-item reveal">
-            <img src="images/work3.jpg" alt="Work 3">
-            <p>Course Projects on Numerical Methods</p>
+            
         </div>
     </div>
 </section>
