@@ -8,8 +8,7 @@
         <h2 class="reveal">My Work</h2>
         <div class="work-gallery">
             <div class="work-item reveal">
-                <img src="images/work1.jpg" alt="Work 1">
-                <p>Master's Dissertation: Solving the One-Dimensional Linear Advection Equation</p>
+                <p>My Master's Project: Solving the One-Dimensional Linear Advection Equation</p>
                 <div class="button-group">
                     <a href="https://drive.google.com/file/d/1L00zMNapZzlwp4r0KbP0T8AATxBHawy4/view?usp=share_link" target="_blank" class="button">View Report</a>
                     <a href="https://docs.google.com/presentation/d/121fSn9rbGo_WkUFbtdCBilm50WlDjyNi/edit#slide=id.p16" target="_blank" class="button">View Slides</a>
